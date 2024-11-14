@@ -1,0 +1,13 @@
+# Mac system files
+.DS_Store
+
+# Python cache
+backend/__pycache__/
+
+# Node modules and Next.js build files
+frontend/node_modules/
+frontend/.next/
+
+# Environment files
+backend/.env
+frontend/.env
